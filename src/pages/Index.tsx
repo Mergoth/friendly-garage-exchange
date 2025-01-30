@@ -6,19 +6,19 @@ import AboutSection from "@/components/AboutSection";
 const items = [
   {
     id: 1,
-    title: "Vintage Desk Lamp",
-    description: "Beautiful brass desk lamp from the 1960s. Perfect working condition with a warm, ambient glow.",
-    price: 45.00,
-    image: "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500",
+    title: "Router Xiaomi 4A",
+    description: "-",
+    price: 5.00,
+    image: "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1602584630.78953985.png",
     status: "available" as const,
   },
   {
     id: 2,
-    title: "Mechanical Keyboard",
-    description: "Cherry MX Blue switches, barely used. Comes with original box and cable.",
-    price: 75.00,
-    image: "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=500",
-    status: "urgent" as const,
+    title: "Chromecast",
+    description: "-",
+    price: 15.00,
+    image: "https://images.versus.io/objects/google-chromecast-2nd-gen.front.master.1635862152314.jpg",
+    status: "available" as const,
   },
   {
     id: 3,
